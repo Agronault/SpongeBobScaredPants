@@ -1,0 +1,11 @@
+# Wavefront OBJ material file
+# Contains 1 materials
+
+newmtl MC_material
+Kd 1 1 1
+Ks 0 0 0
+# for G3D, to make textures look blocky:
+# interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+illum 2
+map_Kd bikinitp2-RGBA.png
+map_d bikinitp2-Alpha.png

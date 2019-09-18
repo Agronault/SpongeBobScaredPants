@@ -1,0 +1,6 @@
+Para conectar ao servidor local:
+
+1- certifique-se de manter as duas maquinas na mesma rede
+tambem se certifique que o ip informado no codigo do cliente seja o ip (ipV4) da maquina do servidor na rede
+2- execute no primeiro jogador selecionando a opção (1)server
+3- execute no segundo jogador selecionando a opção (2)cliente
