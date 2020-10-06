@@ -1,4 +1,4 @@
-# My SpongeBobScaredPants
+# The incredible world of SpongeBobScaredPants
 <img src="https://static.wixstatic.com/media/2c841b_c9d3d8541b6a46be86b1fcd3afe3a05f~mv2.png/v1/fill/w_1622,h_886/TP2Logo.png" style="float: right">  
 TP2 Computação Gráfica  
 
